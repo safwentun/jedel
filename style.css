@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li {
+display: inline-block;
+
+}
+li {
+justify-content: space-between;
+align-content: center;
+text-align: end;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 3rem 3rem;
+    background-color:beige;
+    text-align: justify;
+p{
+    font-size: 20px;
+}
+}
+body h3{color: brown;
+} 
+img {
+    width : 50vw;
+    height : 50vh;
+    max-width : 250px;
+    max-height : 190px;
+    }
